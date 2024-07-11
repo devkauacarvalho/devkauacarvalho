@@ -3,15 +3,15 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/kaua-carvalho" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="kaua-carvalho" height="30" width="40" /></a>
-<a href="https://www.instagram.com/string_kaua/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" alt="kaua-carvalho" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kaua-carvalho" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="kaua-carvalho" height="40" width="40" /></a>
+<a href="https://www.instagram.com/string_kaua/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" alt="kaua-carvalho" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png">](https://angular.io/)
-[<img src=" https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg">](https://getbootstrap.com/)
-[<img src="https://www.figma.com/">](https://www.vectorlogo.zone/logos/figma/figma-icon.svg/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg">](https://getbootstrap.com/)
+[<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg/">](https://www.figma.com/)
 [<img src="https://firebase.google.com/">](https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg)
 [<img src="https://git-scm.com/">](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg/)
 [<img src="https://heroku.com/">](https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg/)
