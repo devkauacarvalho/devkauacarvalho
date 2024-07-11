@@ -8,7 +8,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left" style="display: inline_block"><br>
+<p align="left" style="display: inline_block">
   <img alt="JavaScript-Icon" height="30" width="40" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img alt="TypeScript-Icon" height="30" width="40" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img alt="NodeJs-Icon" height="30" width="40" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
@@ -25,8 +25,7 @@
   <img alt="MySql-Icon" height="30" width="40" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img alt="Java-Icon" height="30" width="40" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img alt="Spring-Boot-Icon" height="30" width="50" align="center" src="https://user-images.githubusercontent.com/33158051/103466606-760a4000-4d14-11eb-9941-2f3d00371471.png">
-</p>
+</p><br>
 
 ![devkauacarvalho's Stats](https://github-readme-stats.vercel.app/api?username=devkauacarvalho&theme=gotham&show_icons=true&hide_border=true&count_private=true)
-![devkauacarvalho's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devkauacarvalho&theme=gotham&show_icons=true&hide_border=true&layout=compact)<br>
-![devkauacarvalho's Streak](https://github-readme-streak-stats.herokuapp.com/?user=devkauacarvalho&theme=gotham&hide_border=true)
+![devkauacarvalho's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devkauacarvalho&theme=gotham&show_icons=true&hide_border=true&layout=compact)
