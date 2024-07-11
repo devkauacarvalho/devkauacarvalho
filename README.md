@@ -58,6 +58,6 @@
   <a href="https://spring.io/projects/spring-boot" target="_blank">
     <img alt="Spring-Boot-Icon" height="30" width="50" src="https://user-images.githubusercontent.com/33158051/103466606-760a4000-4d14-11eb-9941-2f3d00371471.png" />
   </a>
-</p><br>
+</p>
 
 ![devkauacarvalho's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devkauacarvalho&theme=transparent&show_icons=true&hide_border=true&layout=compact)
