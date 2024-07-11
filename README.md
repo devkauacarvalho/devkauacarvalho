@@ -12,10 +12,10 @@
 <p align="left" style="display: inline_block">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img alt="JavaScript-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  </a>
+  </a>&nbsp;
   <a href="https://www.typescriptlang.org/" target="_blank">
     <img alt="TypeScript-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  </a>
+  </a>&nbsp;
   <a href="https://nodejs.org/" target="_blank">
     <img alt="NodeJs-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   </a>
