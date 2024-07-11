@@ -9,8 +9,8 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-[<img src="https://angular.io/assets/images/logos/angular/angular.svg/">](https://angular.io/)
-[<img src="https://getbootstrap.com/">](https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png">](https://angular.io/)
+[<img src=" https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg">](https://getbootstrap.com/)
 [<img src="https://www.figma.com/">](https://www.vectorlogo.zone/logos/figma/figma-icon.svg/)
 [<img src="https://firebase.google.com/">](https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg)
 [<img src="https://git-scm.com/">](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg/)
