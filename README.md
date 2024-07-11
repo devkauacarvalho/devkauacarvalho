@@ -3,8 +3,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/kaua-carvalho" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="kaua-carvalho" height="30" width="40" /></a>
-<a href="https://www.instagram.com/string_kaua/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" alt="kaua-carvalho" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kaua-carvalho" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="kaua-carvalho" height="40" width="40" /></a>
+<a href="https://www.instagram.com/string_kaua/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" alt="kaua-carvalho" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
