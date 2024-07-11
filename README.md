@@ -3,18 +3,20 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/kaua-carvalho" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="LinkedIn-Icon" height="40" width="40" /></a>&nbsp;
-<a href="mailto:dev.kauacarvalho@gmail.com" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1024px-Gmail_icon_%282020%29.svg.png" alt="E-mail-Icon" height="40" width="50" /></a>&nbsp;
-<a href="https://www.instagram.com/string_kaua/" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" alt="Instagram-Icon" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/kaua-carvalho"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="LinkedIn-Icon" height="40" width="40" /></a>&nbsp;
+<a href="mailto:dev.kauacarvalho@gmail.com"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1024px-Gmail_icon_%282020%29.svg.png" alt="E-mail-Icon" height="40" width="50" /></a>&nbsp;
+<a href="https://www.instagram.com/string_kaua/"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" alt="Instagram-Icon" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <img href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> alt="JavaScript-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
-  <a href="https://www.typescriptlang.org/" target="_blank">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="color:none">
+    <img alt="JavaScript-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
+  </a>
+  <a href="https://www.typescriptlang.org/">
     <img alt="TypeScript-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
   </a>
-  <a href="https://nodejs.org/" target="_blank">
+  <a href="https://nodejs.org/">
     <img alt="NodeJs-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
   </a>
   <a href="https://www.php.net/" target="_blank">
