@@ -27,6 +27,6 @@
   <img alt="Spring-Boot-Icon" height="30" width="50" align="center" src="https://user-images.githubusercontent.com/33158051/103466606-760a4000-4d14-11eb-9941-2f3d00371471.png">
 </p>
 
-![devkauacarvalho's Stats](https://github-readme-stats.vercel.app/api?username=devkauacarvalho&theme=gotham&show_icons=true&hide_border=true&count_private=true)<br>
+![devkauacarvalho's Stats](https://github-readme-stats.vercel.app/api?username=devkauacarvalho&theme=gotham&show_icons=true&hide_border=true&count_private=true)
 ![devkauacarvalho's Streak](https://github-readme-streak-stats.herokuapp.com/?user=devkauacarvalho&theme=gotham&hide_border=true)<br>
 ![devkauacarvalho's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devkauacarvalho&theme=gotham&show_icons=true&hide_border=true&layout=compact)
