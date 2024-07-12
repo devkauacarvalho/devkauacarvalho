@@ -3,9 +3,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/kaua-carvalho"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="LinkedIn-Icon" height="40" width="40" /></a>&nbsp;
-<a href="mailto:dev.kauacarvalho@gmail.com"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1024px-Gmail_icon_%282020%29.svg.png" alt="E-mail-Icon" height="40" width="45" /></a>&nbsp;
-<a href="https://www.instagram.com/string_kaua/"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" alt="Instagram-Icon" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/kaua-carvalho/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:dev.kauacarvalho@gmail.com" target="_blank"><img src="https://img.shields.io/badge/mail-D14836?&style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.instagram.com/string_kaua" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
