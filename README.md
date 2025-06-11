@@ -4,9 +4,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/kaua-carvalho/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="mailto:dev.kauacarvalho@gmail.com" target="_blank"><img src="https://img.shields.io/badge/mail-D14836?&style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://www.instagram.com/string_kaua" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/kaua-carvalho/" target="_blank"><img src="https://www.svgrepo.com/show/349436/linkedin.svg" width="50px"></a>
+  <a href="mailto:dev.kauacarvalho@gmail.com" target="_blank"><img src="https://www.svgrepo.com/show/349378/gmail.svg" width="50px"></a>
+  <a href="https://www.instagram.com/string_kaua" target="_blank"><img src="https://www.svgrepo.com/show/349410/instagram.svg" width="50px"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -29,4 +29,4 @@
   <a href="https://spring.io/projects/spring-boot" target="_blank"><img alt="Spring-Boot-Icon" height="30" width="50" src="https://user-images.githubusercontent.com/33158051/103466606-760a4000-4d14-11eb-9941-2f3d00371471.png"></a>
 </p>
 
-![devkauacarvalho's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devkauacarvalho&card_width=400&bg_color=00000000&title_color=FA8C00&text_color=949CA5&show_icons=true&hide_border=true&icon_color=CC5160)<img alt="Cartoon-Programmer" height="225" width="225" src="https://static.vecteezy.com/system/resources/previews/011/153/365/original/3d-web-developer-working-on-project-illustration-png.png">
+![devkauacarvalho's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devkauacarvalho&card_width=400&bg_color=00000000&title_color=FA8C00&text_color=949CA5&show_icons=true&hide_border=true&icon_color=CC5160)<img alt="Cartoon-Programmer" height="300" src="https://cdni.iconscout.com/illustration/premium/thumb/developer-illustration-download-in-svg-png-gif-file-formats--html-logo-c-plus-business-concept-pack-illustrations-3560991.png">
