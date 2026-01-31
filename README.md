@@ -29,4 +29,4 @@
   <a href="https://spring.io/projects/spring-boot" target="_blank"><img alt="Spring-Boot-Icon" height="30" width="50" src="https://user-images.githubusercontent.com/33158051/103466606-760a4000-4d14-11eb-9941-2f3d00371471.png"></a>
 </p>
 
-![devkauacarvalho's Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs?username=devkauacarvalho)<img alt="Cartoon-Programmer" height="300" src="https://cdni.iconscout.com/illustration/premium/thumb/developer-illustration-download-in-svg-png-gif-file-formats--html-logo-c-plus-business-concept-pack-illustrations-3560991.png">
+![devkauacarvalho's Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs?username=devkauacarvalho&theme=tokyonight)<img alt="Cartoon-Programmer" height="300" src="https://cdni.iconscout.com/illustration/premium/thumb/developer-illustration-download-in-svg-png-gif-file-formats--html-logo-c-plus-business-concept-pack-illustrations-3560991.png">
