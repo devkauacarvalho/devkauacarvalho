@@ -1,4 +1,4 @@
-<br><h1 align="center">Hi 👋, I'm Kauã Carvalho!
+<br><h1 align="center">Hi 👋, I'm Kauã!
 <h3 align="center">A passionate Developer, bringing innovation from Brazil.</h3>
 </h1>
 
@@ -29,4 +29,4 @@
   <a href="https://spring.io/projects/spring-boot" target="_blank"><img alt="Spring-Boot-Icon" height="30" width="50" src="https://user-images.githubusercontent.com/33158051/103466606-760a4000-4d14-11eb-9941-2f3d00371471.png"></a>
 </p>
 
-![devkauacarvalho's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devkauacarvalho&card_width=400&bg_color=00000000&title_color=FA8C00&text_color=949CA5&show_icons=true&hide_border=true&icon_color=CC5160)<img alt="Cartoon-Programmer" height="300" src="https://cdni.iconscout.com/illustration/premium/thumb/developer-illustration-download-in-svg-png-gif-file-formats--html-logo-c-plus-business-concept-pack-illustrations-3560991.png">
+![devkauacarvalho's Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs?username=devkauacarvalho)<img alt="Cartoon-Programmer" height="300" src="https://cdni.iconscout.com/illustration/premium/thumb/developer-illustration-download-in-svg-png-gif-file-formats--html-logo-c-plus-business-concept-pack-illustrations-3560991.png">
